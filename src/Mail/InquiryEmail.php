@@ -1,6 +1,6 @@
 <?php
 
-namespace Kace\Contactform\Mail;
+namespace Kacedeveloperz\Contactform\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

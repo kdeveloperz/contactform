@@ -1,6 +1,6 @@
 <?php
 
-namespace Kace\Contactform\Models;
+namespace Kacedeveloperz\Contactform\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

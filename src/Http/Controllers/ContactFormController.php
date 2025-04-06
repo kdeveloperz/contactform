@@ -1,13 +1,13 @@
 <?php
 
-namespace Kace\Contactform\Http\Controllers;
+namespace Kacedeveloperz\Contactform\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Mail;
-use Kace\Contactform\Http\Requests\ContactFormRequest;
-use Kace\Contactform\Models\Contact;
-use Kace\Contactform\Mail\InquiryEmail;
+use Kacedeveloperz\Contactform\Http\Requests\ContactFormRequest;
+use Kacedeveloperz\Contactform\Models\Contact;
+use Kacedeveloperz\Contactform\Mail\InquiryEmail;
 
 class ContactFormController extends Controller
 {

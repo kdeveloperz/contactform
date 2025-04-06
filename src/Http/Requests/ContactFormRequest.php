@@ -1,6 +1,6 @@
 <?php
 
-namespace Kace\Contactform\Http\Requests;
+namespace Kacedeveloperz\Contactform\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

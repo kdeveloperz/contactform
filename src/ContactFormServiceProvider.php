@@ -1,6 +1,6 @@
 <?php
 
-namespace Kace\Contactform;
+namespace Kacedeveloperz\Contactform;
 
 use Illuminate\Support\ServiceProvider;
 
