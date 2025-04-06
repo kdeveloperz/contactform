@@ -1,0 +1,25 @@
+{
+    "name": "kace/contactform",
+    "description": "Kacedeveloperz Contact form",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kace\\Contactform\\": "src/"
+        }
+    },
+    "extra":{
+        "laravel":{
+            "providers": [
+                "Kace\\Contactform\\ContactFormServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Kace Developerz Solutionz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
